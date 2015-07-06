@@ -1,0 +1,22 @@
+apply plugin: 'java'
+
+apply plugin: 'application'
+
+mainClassName= 'pe.com.mcordova.hello.HelloWorld'
+
+jar {
+	manifest {
+		attributes 'Main-Class': 'pe.com.mcordova.hello.HelloWorld'
+	}
+}
+
+repositories {
+    mavenCentral()
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+dependencies {
+    compile "joda-time:joda-time:2.2"
+}
