@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaHelloWorld.iml" filepath="$PROJECT_DIR$/JavaHelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaHelloWorld_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaHelloWorld_main.iml" group="JavaHelloWorld" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaHelloWorld_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaHelloWorld_test.iml" group="JavaHelloWorld" />
+    </modules>
+  </component>
+</project>
